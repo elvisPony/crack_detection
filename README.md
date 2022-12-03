@@ -7,7 +7,7 @@ EfficientU-Net
   
   
 
----
+
 ## 測試模型
 *Automated Crack Detection via Semantic Segmentation Approaches Using
 Advanced U-Net Architecture*
